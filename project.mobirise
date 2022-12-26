@@ -56,14 +56,25 @@
     "uniqCompNum": 42,
     "versionPublish": "5.2.0",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://yogawithamanda.net",
+    "sitemapSwitcherAuto": "on",
+    "cssOptimize": true,
+    "favicon": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Amanda Vashti is a certified professional yoga instructor who has been practicing the art of yoga for over 7 years and has been teaching it for over 3 years. During this time she has amassed clients from all over Malaysia, including individuals and corporate giants.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
